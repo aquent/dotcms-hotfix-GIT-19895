@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Name: hotfix-GIT-19895_v20.11.1
+Plugin-Version: 1.0
+Author: dotCMS

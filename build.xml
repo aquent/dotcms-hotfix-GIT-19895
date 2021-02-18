@@ -1,0 +1,3 @@
+<project name="hotfix-GIT-19895_v20.11.1" default="build">
+    <import file="../common.xml"/>
+</project>
